@@ -3,4 +3,4 @@
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/studio.svg"/> DVC Studio (Collaboration for ML Projects) | [website](https://studio.iterative.ai)
 - DVC Live (DVC Metrics Logger) | [Python API](https://github.com/iterative/dvclive) | [docs](https://dvc.org/doc/dvclive)
 - TPI: Terraform Provider Iterative | [code](https://github.com/iterative/terraform-provider-iterative) | [Python API](https://github.com/iterative/tpi)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/enterprise.svg"/> [awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/enterprise.svg"/> [awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects) | [example repos](https://github.com/iterative?q=topic%3Aexample&type=public&language=&sort=stargazers#org-repositories)
