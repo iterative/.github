@@ -1,4 +1,4 @@
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/> DVC: Data Version Control (Git for Data & Models, Experiment Pipeline Management) | [code](https://github.com/iterative/dvc) | [website & docs](https://dvc.org)
+- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/> DVC: Data Version Control (ML Experiments, pipelines, Git for data) | [code](https://github.com/iterative/dvc) | [website & docs](https://dvc.org)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/cml.svg"/> CML: Continuous Machine Learning (CI/CD for ML) | [code](https://github.com/iterative/cml) | [website & docs](https://cml.dev)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/studio.svg"/> Iterative Studio (Collaboration for ML Projects) | [website](https://studio.iterative.ai)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM: Version and deploy your ML models following GitOps principles | [website & docs](https://mlem.ai)
