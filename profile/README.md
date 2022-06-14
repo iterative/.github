@@ -4,4 +4,5 @@
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM: Version and deploy your ML models following GitOps principles | [code](https://github.com/iterative/mlem) | [website & docs](https://mlem.ai)
 - DVC Live (DVC Metrics Logger) | [Python API](https://github.com/iterative/dvclive) | [docs](https://dvc.org/doc/dvclive)
 - TPI: Terraform Provider Iterative | [code](https://github.com/iterative/terraform-provider-iterative) | [website & docs](https://registry.terraform.io/providers/iterative/iterative/latest/docs) | [Python API](https://github.com/iterative/tpi)
+- DVC Extension for VS Code | [code](https://github.com/iterative/vscode-dvc) | [marketplace listing](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/enterprise.svg"/> [awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects) | [example repos](https://github.com/iterative?q=topic%3Aexample&type=public&language=&sort=stargazers#org-repositories) | [Free course & certification](https://learn.iterative.ai)
