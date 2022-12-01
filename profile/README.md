@@ -1,7 +1,7 @@
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/> DVC: Data Version Control (ML Experiments, Pipelines, Git for data) | [code](https://github.com/iterative/dvc) | [website & docs](https://dvc.org)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/cml.svg"/> CML: Continuous Machine Learning (CI/CD for ML) | [code](https://github.com/iterative/cml) | [website & docs](https://cml.dev)
 - <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/studio.svg"/> Iterative Studio (Collaboration for ML Projects) | [website](https://studio.iterative.ai)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM (Version & Deploy ML models following GitOps principles) | [code](https://github.com/iterative/mlem) | [website & docs](https://mlem.ai)
+- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM (ML Model Deployment) | [code](https://github.com/iterative/mlem) | [website & docs](https://mlem.ai)
 - :chart_with_upwards_trend: DVCLive (DVC Metrics Logger/Plotter) | [Python API](https://github.com/iterative/dvclive) | [docs](https://dvc.org/doc/dvclive)
 - :electric_plug: VSCode Extension for DVC | [extension](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [code](https://github.com/iterative/vscode-dvc)
 - :cloud_with_lightning: TPI: Terraform Provider Iterative (Multicloud Orchestration) | [code](https://github.com/iterative/terraform-provider-iterative) | [website & docs](https://registry.terraform.io/providers/iterative/iterative/latest/docs) | [Python API](https://github.com/iterative/tpi)
