@@ -1,8 +1,10 @@
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/> DVC: Data Version Control (ML Experiments, Pipelines, Git for data) | [code](https://github.com/iterative/dvc) | [website & docs](https://dvc.org)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/cml.svg"/> CML: Continuous Machine Learning (CI/CD for ML) | [code](https://github.com/iterative/cml) | [website & docs](https://cml.dev)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/studio.svg"/> Iterative Studio (Collaboration for ML Projects) | [website](https://studio.iterative.ai)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM (ML Model Deployment) | [code](https://github.com/iterative/mlem) | [website & docs](https://mlem.ai)
-- :chart_with_upwards_trend: DVCLive (DVC Metrics Logger/Plotter) | [Python API](https://github.com/iterative/dvclive) | [docs](https://dvc.org/doc/dvclive)
-- :electric_plug: VSCode Extension for DVC | [extension](https://marketplace.visualstudio.com/items?itemName=Iterative.dvc) | [code](https://github.com/iterative/vscode-dvc)
-- :cloud_with_lightning: TPI: Terraform Provider Iterative (Multicloud Orchestration) | [code](https://github.com/iterative/terraform-provider-iterative) | [website & docs](https://registry.terraform.io/providers/iterative/iterative/latest/docs) | [Python API](https://github.com/iterative/tpi)
-- <img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/enterprise.svg"/> [awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects) | [example repos](https://github.com/iterative?q=topic%3Aexample&type=public&language=&sort=stargazers#org-repositories) | [Free course & certification](https://learn.iterative.ai)
+### check those out
+:house: [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/enterprise.svg"/> Iterative](https://iterative.ai) [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/studio.svg"/> Studio](https://studio.iterative.ai) [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/dvc.svg"/> DVC](https://dvc.org) [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/cml.svg"/> CML](https://cml.dev) [<img width="20px" style="vertical-align: text-top;" src="https://static.iterative.ai/logo/mlem.svg"/> MLEM](https://mlem.ai)
+
+:raising_hand: [free course & certification](https://learn.iterative.ai)
+
+✨ [example repos](https://github.com/search?q=org%3Aiterative+type%3Arepository++is%3Apublic+topic%3Aexample+archived%3Afalse&type=repositories)
+
+:bowtie: [awesome-iterative-projects](https://github.com/iterative/awesome-iterative-projects)
+
+### and our public repos below :point_down: 
