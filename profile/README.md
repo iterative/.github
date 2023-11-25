@@ -13,8 +13,7 @@
 <br/>
 [![Get Started Project](https://img.shields.io/badge/Get%20Started%20Project-103037?style=for-the-badge)](https://studio.iterative.ai/team/Iterative/projects/example-get-started-zde16i6c4g)
 [![Model Registry](https://img.shields.io/badge/Model%20Registry-103037?style=for-the-badge)](https://studio.iterative.ai/team/Iterative/models)
-</div>
-
-#### Join Our Community:
+<br/>
 [![Discord](https://img.shields.io/discord/485586884165107732)](https://discord.com/invite/dvwXA2N)
 <a href="https://twitter.com/DVCorg" title="DVCorg on Twitter/X"><img src="https://img.shields.io/twitter/follow/DVCorg.svg?style=social"></a>
+</div>
