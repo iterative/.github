@@ -1,7 +1,4 @@
 <div align="center">
-  <a href="https://iterative.ai">
-    <img src="https://static.iterative.ai/logo/enterprise.svg" width=250 alt=""/>
-  </a>
   <h2 align="center"><b>Mission control for ML experiments, data, and compute</b></h2>
   <h4 align="center"><i>Best experience, Best practices, Best performance</i></h4>
 </div>
@@ -24,10 +21,6 @@
 
 </div>
 
-<br/>
-
-<br/>
-
-#### Join Our Community
+#### Join Our Community:
 [![Discord](https://img.shields.io/discord/485586884165107732)](https://discord.com/invite/dvwXA2N)
 <a href="https://twitter.com/DVCorg" title="DVCorg on Twitter/X"><img src="https://img.shields.io/twitter/follow/DVCorg.svg?style=social"></a>
