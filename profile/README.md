@@ -5,9 +5,9 @@
 
 <div align="center">
 
+[![DataChain](https://img.shields.io/badge/Docs-7B61FF?style=for-the-badge)](https://github.com/iterative/datachain)
 [![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge)](https://dvc.org)
 [![Studio](https://img.shields.io/badge/Studio-13ADC7?style=for-the-badge)](https://studio.iterative.ai)
-[![Docs](https://img.shields.io/badge/Docs-7B61FF?style=for-the-badge)](https://dvc.org/docs)
 [![Free Course](https://img.shields.io/badge/Free%20Course-945DD5?style=for-the-badge)](https://learn.iterative.ai)
 [![Why Iterative](https://img.shields.io/badge/Why%20Iterative-F46737?style=for-the-badge)](https://iterative.ai/why-iterative)
 <br/>
