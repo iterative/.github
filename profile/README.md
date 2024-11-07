@@ -1,5 +1,5 @@
 <div align="center">
-  <h2 align="center"><b>Mission control for ML experiments, data, and compute</b></h2>
+  <h2 align="center"><b>Mission control for AI data</b></h2>
   <h4 align="center"><i>Best experience, Best practices, Best performance</i></h4>
 </div>
 
